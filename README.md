@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development!
 - 🌱 I’m currently learning Godot.
 - 💞️ I’m looking to collaborate on games.
-- 📫 paulocerdeira1999@gmail.com
+- 📫 PauloCerdeira1999@gmail.com
 
 <!---
 PauloCerdeira/PauloCerdeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
